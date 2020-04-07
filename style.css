@@ -1,0 +1,18 @@
+/*
+Theme Name: Orbital Child
+Theme URI: https://orbitalthemes.net/
+Template: orbital
+Author: Pau Casanellas
+Author URI: http://romualdfons.com/
+Description: Proudly coded by Pau Casanellas, member of Mi taladro perforará el cielo S.L
+Tags: one-column,two-columns,right-sidebar,flexible-header,custom-colors,custom-header,custom-menu,custom-logo,editor-style,featured-images,footer-widgets,post-formats,rtl-language-support,sticky-post,theme-options,threaded-comments,translation-ready
+Version: 2.3.4.1585882954
+Updated: 2020-04-03 00:02:34
+
+*/
+.migas{
+    margin-left:auto;
+    margin-right: auto;
+    max-width: 66.5rem;
+    padding-top: 2%;
+}
